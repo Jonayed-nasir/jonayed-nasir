@@ -1,18 +1,17 @@
 ![I am jonayed-nasir](https://github.com/jonayed-nasir/jonayed-nasir/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm JONAYED NASIR</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h3 align="center">Programmer | Web Designer | Content Creator </h3>
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=jonayed-nasir&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently learning on [Hablu Programmer](https://www.hablu-programmer.com/)
 
 - 🌱 I’m currently learning HTML, CSS, Javascript
 
