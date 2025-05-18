@@ -1,28 +1,28 @@
 ![I am jonayed-nasir](https://github.com/jonayed-nasir/jonayed-nasir/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm JONAYED NASIR</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator </h3>
+<h3 align="center">Programmer | Web Designer</h3>
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=jonayed-nasir&color=red)
 
-Skills: BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: BOOTSTRAP5 / TAILWINDCSS / REACT / JS / HTML5 / CSS3
 
 </div>
 
 - 🔭 I’m currently learning on [Hablu Programmer](https://www.hablu-programmer.com/)
 
-- 🌱 I’m currently learning HTML, CSS, Javascript
+- 🌱 I’m currently learning HTML, CSS, Bootstrap, TailwindCss, Javascript
 
 - 👨‍💻 All of my projects are available at [https://github.com/jonayed-nasir](https://github.com/jonayed-nasir)
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, TailwindCss**
 
 - 📫 How to reach me **junayed57489@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-
+<!-->
 <p align="center">
 <a href="https://fb.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://twitter.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
@@ -33,6 +33,9 @@ Skills: BOOTSTRAP / REACT / JS / HTML / CSS
 <a href="https://dribbble.com/jonayed-nasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jonayed-nasir" height="30" width="40" /></a>
 <a href="https://www.behance.net/jonayed-nasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jonayed-nasir" height="30" width="40" /></a>
 </p>
+
+<!-->
+
 
 ## Use To Code
 
