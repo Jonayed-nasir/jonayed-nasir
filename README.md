@@ -22,7 +22,7 @@ Skills: BOOTSTRAP5 / TAILWINDCSS / REACT / JS / HTML5 / CSS3
 - 📫 How to reach me **junayed57489@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<!-->
+
 <p align="center">
 <a href="https://fb.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://twitter.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
@@ -34,7 +34,6 @@ Skills: BOOTSTRAP5 / TAILWINDCSS / REACT / JS / HTML5 / CSS3
 <a href="https://www.behance.net/jonayed-nasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jonayed-nasir" height="30" width="40" /></a>
 </p>
 
-<!-->
 
 
 ## Use To Code
